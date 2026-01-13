@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Salma</h1>
-<h3 align="center">Aspiring Software Engineer</h3>
+<h3 align="center">Aspiring Software Engineer | Curious Builder | Lifelong Learner</h3>
 
 <p align="center">
   <a href="https://github.com/salmach4">
@@ -13,17 +13,19 @@
 
 ---
 
-## 👩‍💻 About Me
+## 🌱 About Me
 
-🎓 Aspiring **Software Engineer**, preparing applications for **MSc programs in Software Engineering**  
-💡 Exploring different areas of software engineering through hands-on projects  
-🌱 I enjoy learning by building real applications and continuously improving my technical skills
+I’m an **aspiring Software Engineer** currently exploring different areas of software development through real-world projects.
 
-I am currently exploring backend development, frontend interfaces, mobile applications, and software design principles to better understand the full software development lifecycle.
+🎓 Preparing applications for **MSc programs in Software Engineering**  
+🧠 Curious about how systems work — from backend logic to user interfaces  
+🛠 I learn best by **building, breaking, and improving projects**
+
+I’m still exploring my interests and intentionally keeping my path open — I enjoy discovering what excites me most in software engineering.
 
 ---
 
-## 🛠️ Tech Stack
+## 🧰 Tech Stack (Growing & Evolving)
 
 ### 💻 Programming Languages
 - Python
@@ -33,7 +35,7 @@ I am currently exploring backend development, frontend interfaces, mobile applic
 
 ### ⚙️ Frameworks & Technologies
 - FastAPI
-- REST APIs
+- RESTful APIs
 - SQLAlchemy
 - Jetpack Compose
 - Jinja2
@@ -42,9 +44,9 @@ I am currently exploring backend development, frontend interfaces, mobile applic
 - SQLite
 - MySQL
 
-### 🎨 Frontend
+### 🎨 Frontend Basics
 - HTML
-- Basic CSS
+- CSS (basics)
 - JavaScript (fundamentals)
 
 ### 📱 Mobile Development
@@ -52,7 +54,7 @@ I am currently exploring backend development, frontend interfaces, mobile applic
 - MVVM Architecture
 - Room Database
 
-### 🧰 Tools & Platforms
+### 🧠 Tools I Use Daily
 - Git & GitHub
 - VS Code
 - IntelliJ IDEA
@@ -60,46 +62,46 @@ I am currently exploring backend development, frontend interfaces, mobile applic
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Featured Projects
 
-### 🚀 Task Manager – FastAPI
-A lightweight task management application built with **FastAPI** and **SQLite**.
+### 🗂️ Task Manager – FastAPI
+A lightweight task management application built with **FastAPI** and **SQLite**, featuring a clean API and a simple UI.
 
-**Key features:**
-- Create, view, update, and delete tasks
-- Filter tasks by status
-- Mark tasks as completed
-- Simple UI and API documentation
+**What it does:**
+- Create, view, filter, and delete tasks
+- Update task status (Todo / Doing / Done)
+- Swagger API documentation
+- Minimal web interface
 
-🔗 Repository: https://github.com/salmach4/task-manager-fastapi
+🔗 **Repo:** https://github.com/salmach4/task-manager-fastapi
 
 ---
 
-### 🤖 NovaAI Chatbot (Android)
-An Android chatbot application demonstrating modern Android development practices.
+### 🤖 NovaAI – Android Chatbot
+An Android chatbot application showcasing modern Android development practices.
 
 **Highlights:**
 - Jetpack Compose UI
 - MVVM architecture
-- Local data persistence using Room
+- Local data persistence with Room
 
-🔗 Repository: https://github.com/salmach4/NovaAI-Chatbot
+🔗 **Repo:** https://github.com/salmach4/NovaAI-Chatbot
 
 ---
 
 ### 🛒 Second Hand Market Desk
-A Java desktop application for managing second-hand products.
+A Java desktop application for managing second-hand products with database integration.
 
 **Highlights:**
 - CRUD operations
-- MySQL database integration
-- Desktop application architecture
+- MySQL database
+- Desktop application logic
 
-🔗 Repository: https://github.com/salmach4/SecondHandMarketDesk
+🔗 **Repo:** https://github.com/salmach4/SecondHandMarketDesk
 
 ---
 
-## 📊 GitHub Stats (Optional)
+## 📊 GitHub at a Glance
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=salmach4&show_icons=true&theme=default" />
@@ -107,7 +109,7 @@ A Java desktop application for managing second-hand products.
 
 ---
 
-## 📫 Contact
+## 📫 Let’s Connect
 
 - 📧 Email: **charafisalma44@gmail.com**
 - 💼 LinkedIn: https://www.linkedin.com/in/salma-charafi-4710b73a5/
@@ -115,4 +117,4 @@ A Java desktop application for managing second-hand products.
 
 ---
 
-✨ *Continuously learning and exploring software engineering.*
+✨ *Still exploring, always learning, and enjoying the journey.*
