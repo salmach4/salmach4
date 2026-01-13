@@ -2,16 +2,7 @@
   <a href="https://github.com/salmach4">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Salma+%F0%9F%91%8B;Aspiring+Software+Engineer;Curious+Builder+%7C+Always+Learning;Exploring+Backend%2C+Mobile%2C+and+More+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
-  <a href="https://github.com/salmach4">
-    <img src="https://img.shields.io/github/followers/salmach4?label=Followers&style=social" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/salma-charafi-4710b73a5/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat" />
-  </a>
-</p>
-
----
+  
 
 ## 🌱 About Me
 
