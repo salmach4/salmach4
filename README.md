@@ -18,10 +18,10 @@
 I’m an **aspiring Software Engineer** currently exploring different areas of software development through real-world projects.
 
 🎓 Preparing applications for **MSc programs in Software Engineering**  
-🧠 Curious about how systems work — from backend logic to user interfaces  
+🧠 Curious about how systems work  from backend logic to user interfaces  
 🛠 I learn best by **building, breaking, and improving projects**
 
-I’m still exploring my interests and intentionally keeping my path open — I enjoy discovering what excites me most in software engineering.
+I’m still exploring my interests and intentionally keeping my path open  I enjoy discovering what excites me most in software engineering.
 
 ---
 
@@ -100,12 +100,6 @@ A Java desktop application for managing second-hand products with database integ
 🔗 **Repo:** https://github.com/salmach4/SecondHandMarketDesk
 
 ---
-
-## 📊 GitHub at a Glance
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=salmach4&show_icons=true&theme=default" />
-</p>
 
 ---
 
